@@ -1,0 +1,12 @@
+node_modules/
+dist/
+*.local
+.env*
+test-results/
+.DS_Store
+*.tsbuildinfo
+design/
+docs/screenshots/
+docs/check-output.txt
+docs/ASSETS.md
+docs/TESTING.md
